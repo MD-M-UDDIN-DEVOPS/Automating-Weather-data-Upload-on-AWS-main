@@ -7,7 +7,7 @@ This project focuses on creating a Python application to fetch real-time weather
 
 # Walkthrough 
 <p>Read this detailed guide on fetching and storing real-time OpenWeather data in AWS S3:</p>
-    <a href="https://medium.com/@goodycyb/terraform-deployment-to-fetch-and-store-real-time-open-weather-data-in-aws-s3-️-️-️-43f6236e16e2">
+    <a href="https://medium.com/p/043d216a93b4/edit">
         Terraform Deployment to Fetch and Store Real-Time OpenWeather Data in AWS S3
     </a>
 <hr/>
