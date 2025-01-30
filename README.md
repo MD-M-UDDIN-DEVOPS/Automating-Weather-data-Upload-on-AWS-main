@@ -15,7 +15,7 @@ This project focuses on creating a Python application to fetch real-time weather
 # How to execute the Terraform code
 - Download or Clone the Files locally into a folder
 - Open the Folder with a Code Editor e.g VScode
-- Execute the <a href="https://medium.com/@goodycyb/terraform-deployment-to-fetch-and-store-real-time-open-weather-data-in-aws-s3-️-️-️-43f6236e16e2"> Terraform code </a>
+- Execute the <a href="https://medium.com/p/043d216a93b4/edit> Terraform code </a>
 - Delete once done using "Terraform Destroy"
 
 
