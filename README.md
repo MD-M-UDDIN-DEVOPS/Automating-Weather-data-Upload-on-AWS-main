@@ -3,11 +3,11 @@ This project focuses on creating a Python application to fetch real-time weather
 
 
 ## AWS Architecture Diagram illustrating the flow of file uploads
-<img align="right" alt="AWS Diagram" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*lmT8teKpjB77F4-IFD7BHA.png">
+<img align="right" alt="AWS Diagram" src="https://medium.com/@Md_M_Uddin/terraform-deployment-to-fetch-and-store-real-time-open-weather-data-to-aws-s3-043d216a93b4">
 
 # Walkthrough 
 <p>Read this detailed guide on fetching and storing real-time OpenWeather data in AWS S3:</p>
-    <a href="https://medium.com/p/043d216a93b4/edit">
+    <a href="https://medium.com/@Md_M_Uddin/terraform-deployment-to-fetch-and-store-real-time-open-weather-data-to-aws-s3-043d216a93b4">
         Terraform Deployment to Fetch and Store Real-Time OpenWeather Data in AWS S3
     </a>
 <hr/>
