@@ -3,7 +3,7 @@ This project focuses on creating a Python application to fetch real-time weather
 
 
 ## AWS Architecture Diagram illustrating the flow of file uploads
-<img align="right" alt="AWS Diagram" src="![Image](https://github.com/user-attachments/assets/99654f83-d5af-45a9-8ae8-b49a57b8eb27)>
+<img src="![Image](https://github.com/user-attachments/assets/99654f83-d5af-45a9-8ae8-b49a57b8eb27)
 
 # Walkthrough 
 <p>Read this detailed guide on fetching and storing real-time OpenWeather data in AWS S3:</p>
