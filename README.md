@@ -3,7 +3,7 @@ This project focuses on creating a Python application to fetch real-time weather
 
 
 ## AWS Architecture Diagram illustrating the flow of file uploads
-<img align="right" alt="AWS Diagram" src="https://medium.com/@Md_M_Uddin/terraform-deployment-to-fetch-and-store-real-time-open-weather-data-to-aws-s3-043d216a93b4">
+<img align="right" alt="AWS Diagram" src="![Image](https://github.com/user-attachments/assets/99654f83-d5af-45a9-8ae8-b49a57b8eb27)>
 
 # Walkthrough 
 <p>Read this detailed guide on fetching and storing real-time OpenWeather data in AWS S3:</p>
@@ -15,7 +15,7 @@ This project focuses on creating a Python application to fetch real-time weather
 # How to execute the Terraform code
 - Download or Clone the Files locally into a folder
 - Open the Folder with a Code Editor e.g VScode
-- Execute the <a href="https://medium.com/p/043d216a93b4/edit> Terraform code </a>
+- Execute the <a href="![Image](https://github.com/user-attachments/assets/99654f83-d5af-45a9-8ae8-b49a57b8eb27)
 - Delete once done using "Terraform Destroy"
 
 
